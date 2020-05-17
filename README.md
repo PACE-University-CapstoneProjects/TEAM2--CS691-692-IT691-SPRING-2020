@@ -34,4 +34,3 @@ beyond the 20th century. To use symbolic set theory, the computer
 scientist needs an acquaintance with discrete mathematics and
 with convergent sequences, and we shall define here the other
 concepts.
-Index Terms—
