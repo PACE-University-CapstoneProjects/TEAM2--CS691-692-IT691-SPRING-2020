@@ -1,12 +1,12 @@
 # TEAM2--CS691-692-IT691-SPRING-2020
-Symbolic Set Theory for Scientists: A Computer Science Perspective
+Title: Symbolic Set Theory for Scientists: A Computer Science Perspective
 
 Team Member: Paula Medina
 
 Customer: Maurice Karnaugh
 
 
-Computer scientists perceive that they have limited
+Abstract: Computer scientists perceive that they have limited
 needs of set theory. Set theory is used in problem complexity
 descriptions that characterize algorithms and that is the end of it.
 However, the computing environment has changed fundamentally
